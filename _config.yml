@@ -1,7 +1,7 @@
 name: Photography by Tom W.
 favicon: null
-layout_spectrum: 0.12778277951292694
-typography_spectrum: 0.01957177370786667
+layout_spectrum: 0.7572
+typography_spectrum: 0.76259
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.48780921869911253
+  brandStrength: 0.8125
   lightness: 0.7252006968483329
-  saturation: 0.5184301428962499
-  rhythmicContrast: 0.2425950758624822
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
