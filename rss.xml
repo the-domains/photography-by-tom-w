@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Photography by Tom W.]]></title>
+        <description><![CDATA[Photography by Tom W.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jan 2016 19:31:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Charleston Harbor Sunrise]]></title>
+            <description><![CDATA[<article><h1>Charleston Harbor Sunrise</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8668404624978a93eec4bd3a8cbd27a02d0bb5ef.jpg"></article>]]></description>
+            <link>undefined2cba3bfa-1c13-4030-ab42-08b1dc63922e/index.html</link>
+            <guid isPermaLink="false">2cba3bfa-1c13-4030-ab42-08b1dc63922e</guid>
+            <pubDate>Wed, 06 Jan 2016 19:31:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
